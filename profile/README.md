@@ -8,7 +8,7 @@
 
 ATXP is a framework for building and running agents that can interact with the world through a seamless payments layer. We enable agents to discover and call paid MCP tools while automatically handling payments from their own wallets.
 
-### What We Do
+### What we do
 
 - 💳 **Payment Infrastructure**: Built-in payments layer for agent-MCP interactions
 - 🤖 **Agent Development**: Build agents that can pay for MCP tools automatically
@@ -17,36 +17,36 @@ ATXP is a framework for building and running agents that can interact with the w
 
 ---
 
-## 🚀 Get Started
+## 🚀 Get started
 
-### 🤖 Build Agents That Pay for MCP Tools
+### 🤖 Build agents that pay for MCP tools
 Use the ATXP SDK client to connect your agent to MCP servers and automatically handle payments. Your agent brings a wallet (ATXP account or chain wallet), and each tool call is authorized and paid on demand.
 
-**[🎮 Build & Run ATXP Agent Demo](https://github.com/atxp-dev/agent-demo)**
+**[🎮 Build & run ATXP agent demo](https://github.com/atxp-dev/agent-demo)**
 
-### 🛠️ Monetize Your MCP Server
+### 🛠️ Monetize your MCP server
 Add the ATXP Express middleware and call `requirePayment` inside any tool handler to charge before execution. You set the price per tool; ATXP validates payment and then your tool runs.
 
 ### 📚 Documentation
-**[📖 Visit ATXP Docs](https://docs.atxp.ai)**
+**[📖 Visit the ATXP docs](https://docs.atxp.ai)**
 
 Our documentation covers:
-- Agent Quickstart guide
-- MCP Server Quickstart guide
+- Agent quickstart guide
+- MCP server quickstart guide
 - SDK reference
 - Payment integration examples
 - Best practices for monetization
 
 ---
 
-## 🛠️ Quick Start
+## 🛠️ Quickstart
 
-### For Agent Developers
+### For agent developers
 1. **Read the docs**: [ATXP Agent docs](https://docs.atxp.ai/client)
 2. **Run the demo agent**: [agent-demo](https://github.com/atxp-dev/agent-demo)
 3. **Agent quickstart**: [build your first agent](https://docs.atxp.ai/client/index)
 
-### For MCP Server Developers
+### For MCP server developers
 1. **Read the docs**: [ATXP MCP server docs](https://docs.atxpi.ai/server)
 2. **Set Pricing**: Configure per-tool, per-call rates
 3. **Require Payment**: Add `requirePayment` to tool handlers
@@ -54,14 +54,14 @@ Our documentation covers:
 
 ---
 
-## 🤝 Get Help
+## 🤝 Get help
 
 - 📖 **[Documentation](https://docs.atxp.ai)** - Agent and MCP server quickstart guides
 - 💬 **[Community]https://discord.gg/StCPUPS2)** - Get support, show off what you're building, and chat with other builders
 
 ---
 
-## 🌟 Why Choose ATXP?
+## 🌟 Why choose ATXP?
 
 - **Predictable Costs**: Pay-as-you-go for clients; per-use monetization for servers
 - **Cross-Platform**: Works across major MCP hosts and your own deployments
@@ -69,7 +69,7 @@ Our documentation covers:
 
 ---
 
-## 📈 Stay Updated
+## 📈 Stay updated
 
 - ⭐ **Star our repos** to stay updated on releases
 - 🔔 **Watch** for notifications on new features

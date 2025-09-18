@@ -57,7 +57,7 @@ Our documentation covers:
 ## 🤝 Get help
 
 - 📖 **[Documentation](https://docs.atxp.ai)** - Agent and MCP server quickstart guides
-- 💬 **[Community]https://discord.gg/StCPUPS2)** - Get support, show off what you're building, and chat with other builders
+- 💬 **[Community](https://discord.gg/FuJXHhe9aW)** - Get support, show off what you're building, and chat with other builders
 
 ---
 
@@ -73,8 +73,8 @@ Our documentation covers:
 
 - ⭐ **Star our repos** to stay updated on releases
 - 🔔 **Watch** for notifications on new features
-- 📧 **Join** our [community of builders](https://discord.gg/StCPUPS2)
+- 📧 **Join** our [community of builders](https://discord.gg/FuJXHhe9aW)
 
 ---
 
-*Ready to monetize your MCP tools or build agents that pay? Start with [ATXP Docs](https://docs.atxp.ai) and [try our demo](https://github.com/atxp-dev/agent-demo)!*
+*Ready to monetize your MCP tools or build agents that pay? Start with [ATXP Docs](https://docs.atxp.ai) and [try our demo](https://github.com/atxp-dev/atxp-express-example)!*
